@@ -5,7 +5,7 @@ const SearchResults = () => {
 
     return (
         <>
-            <h4>Results for</h4>
+            <h2>Results for</h2>
         </>
     )
 

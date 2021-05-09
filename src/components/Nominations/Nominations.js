@@ -5,7 +5,7 @@ const Nominations = () => {
 
     return (
         <>
-            <h4>Nominations</h4>
+            <h2>Nominations</h2>
         </>
     )
 
