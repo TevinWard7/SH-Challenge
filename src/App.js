@@ -24,9 +24,6 @@ function App() {
 
       </section>
 
-
-
-
     </div>
   );
 }
