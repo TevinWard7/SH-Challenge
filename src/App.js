@@ -7,9 +7,11 @@ import Nominations from './components/Nominations/Nominations';
 function App() {
   return (
     <div className="App">
+
       <MovieSearch />
       <SearchResults />
       <Nominations />
+
     </div>
   );
 }
